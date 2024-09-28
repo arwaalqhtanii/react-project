@@ -2,7 +2,7 @@ const Invitation = () => {
     return (
       <div className="py-24 bg-brown-600 text-white text-center">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold mb-6">
+          <h2 className="font-semibold text-3xl mb-6">
             Invite me to your restaurant. <br />
             Get exposure of millions food lovers.
           </h2>

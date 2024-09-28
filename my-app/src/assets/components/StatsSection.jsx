@@ -26,7 +26,6 @@ const StatsSection = () => {
           </div>
         </div>
 
-        {/* Featured Logos Section */}
         <div className="mt-16 text-center">
           <h3 className="text-md  text-gray-500">AS FEATURED IN</h3>
           <div className="flex flex-wrap justify-center space-x-4 mt-8">
