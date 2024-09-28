@@ -26,15 +26,15 @@ const Navbar = () => {
 
 
         <div className="hidden md:flex space-x-8 text-lg font-medium">
-        <a href="#" className="block text-brown-500 font-semibold">Home</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">About</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">Reviews</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">Videos</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">Contact</a>
+        <a href="#" className="block text-brown-600 font-semibold">Home</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">About</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">Reviews</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">Videos</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">Contact</a>
         </div>
 
         <div className="hidden md:flex items-center space-x-4">
-        <div className="flex justify-center space-x-4 text-brown-500">
+        <div className="flex justify-center space-x-4 text-brown-600">
           <a href="#" className="hover:text-gray-900">
               <FontAwesomeIcon icon={faYoutube} size="lg" />
             </a>
@@ -46,7 +46,7 @@ const Navbar = () => {
             </a>
           </div>
 
-          <button className="bg-white text-brown-500 border-brown-500 border-2 px-6 py-2  hover:bg-brown-500 hover:text-white transition">
+          <button className="bg-white text-brown-600 border-brown-600 border-2 px-6 py-2  hover:bg-brown-600 hover:text-white transition">
   LET'S TALK
 </button>
 
@@ -65,11 +65,11 @@ const Navbar = () => {
       </div>
       {isOpen && (
         <div className="md:hidden px-4 pb-4 space-y-2 ">
-          <a href="#" className="block text-brown-500 font-semibold">Home</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">About</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">Reviews</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">Videos</a>
-          <a href="#" className="block text-gray-900 hover:text-brown-500 transition">Contact</a>
+          <a href="#" className="block text-brown-600 font-semibold">Home</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">About</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">Reviews</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">Videos</a>
+          <a href="#" className="block text-gray-900 hover:text-brown-600 transition">Contact</a>
 
   
           <div className="flex space-x-4 text-brown-600">

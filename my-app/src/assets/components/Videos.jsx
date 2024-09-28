@@ -92,7 +92,7 @@ const Videos = () => {
 
 
                         <div className="mt-10">
-                            <button className="w-full text-brown-500 font-medium bg-transparent border-brown-500 border-2 px-8 py-2 hover:bg-brown-500 hover:text-white transition">
+                            <button className="w-full text-brown-600 font-medium bg-transparent border-brown-600 border-2 px-8 py-2 hover:bg-brown-600 hover:text-white transition">
                                 VIEW ALL VIDEOS
                             </button>
                         </div>

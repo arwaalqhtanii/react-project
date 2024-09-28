@@ -10,7 +10,7 @@ const Invitation = () => {
             Lorem dui tincidunt nunc viverra morbi et maecenas quam adipiscing <br />
             integer amet eget blandit phasellus est natoque blandit facilisi eleifend.
           </p>
-          <button className="bg-white text-brown-500 font-medium px-8 py-3 border-2 border-transparent hover:bg-transparent hover:border-white hover:text-white transition">
+          <button className="bg-white text-brown-600 font-medium px-8 py-3 border-2 border-transparent hover:bg-transparent hover:border-white hover:text-white transition">
             LET'S TALK
           </button>
         </div>

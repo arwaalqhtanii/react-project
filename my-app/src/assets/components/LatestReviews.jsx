@@ -39,7 +39,7 @@ const LatestReviews = () => {
                             <p className="mt-4 text-gray-600">
                                 Ipsum amet ultrices suscipit eget tortor, tincidunt urna, mattis aliquam duis eget luctus.
                             </p>
-                            <a href="#" className="mt-4 inline-block text-brown-500 font-medium hover:underline">
+                            <a href="#" className="mt-4 inline-block text-brown-600 font-medium hover:underline">
                                 READ MORE →
                             </a>
                         </div>
@@ -57,7 +57,7 @@ const LatestReviews = () => {
                             <p className="mt-4 text-gray-600">
                                 Non faucibus tincidunt commodo est arcu ipsum augue ipsum at vitae, nunc purus erat sem leo fames facilisis.
                             </p>
-                            <a href="#" className="mt-4 inline-block text-brown-500 font-medium hover:underline">
+                            <a href="#" className="mt-4 inline-block text-brown-600 font-medium hover:underline">
                                 READ MORE →
                             </a>
                         </div>

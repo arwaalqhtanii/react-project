@@ -26,7 +26,7 @@ const List = () => {
                   placeholder="Email address"
                   className="px-4 py-3 border border-gray-300 focus:outline-none w-full"
                 />
-                <button className="text-brown-500 font-medium bg-transparent border-brown-500 border-2 px-6 py-2 hover:bg-brown-500 hover:text-white transition ">
+                <button className="text-brown-600 font-medium bg-transparent border-brown-600 border-2 px-6 py-2 hover:bg-brown-600 hover:text-white transition ">
                   SUBSCRIBE
                 </button>
               </div>

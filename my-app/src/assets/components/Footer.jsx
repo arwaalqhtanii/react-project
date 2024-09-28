@@ -17,14 +17,14 @@ const Footer = () => {
           </div>
 
           <div className="flex flex-wrap justify-center space-x-4 text-sm font-medium mb-4 md:mb-0">
-            <a href="#" className="text-gray-900 hover:text-brown-500 transition">Home</a>
-            <a href="#" className="text-gray-900 hover:text-brown-500 transition">About</a>
-            <a href="#" className="text-gray-900 hover:text-brown-500 transition">Reviews</a>
-            <a href="#" className="text-gray-900 hover:text-brown-500 transition">Videos</a>
-            <a href="#" className="text-gray-900 hover:text-brown-500 transition">Contact</a>
+            <a href="#" className="text-gray-900 hover:text-brown-600 transition">Home</a>
+            <a href="#" className="text-gray-900 hover:text-brown-600 transition">About</a>
+            <a href="#" className="text-gray-900 hover:text-brown-600 transition">Reviews</a>
+            <a href="#" className="text-gray-900 hover:text-brown-600 transition">Videos</a>
+            <a href="#" className="text-gray-900 hover:text-brown-600 transition">Contact</a>
           </div>
 
-          <div className="flex justify-center space-x-4 text-brown-500">
+          <div className="flex justify-center space-x-4 text-brown-600">
             <a href="#" className="hover:text-gray-900">
               <FontAwesomeIcon icon={faYoutube} size="lg" />
             </a>
