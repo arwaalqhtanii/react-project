@@ -9,9 +9,11 @@ import Videos from './assets/components/Videos';
 import Invitation from './assets/components/Invitation';
 import Footer from './assets/components/Footer';
 
+
 const App = () => {
   return (
     <div>
+     
       <Navbar />
 
  <HeroSection/>
@@ -30,6 +32,8 @@ const App = () => {
 
  <Footer/>
     </div>
+
+    
   );
 };
 
