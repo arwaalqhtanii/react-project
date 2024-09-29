@@ -39,7 +39,7 @@ const About = () => {
             </div>
           </div>
 
-          {/* Right Section - Image */}
+   
           <div className="md:w-1/2 mt-8 md:mt-0 md:ml-8">
             <img
               className="w-full h-auto rounded-lg object-cover"
@@ -59,7 +59,6 @@ const About = () => {
             />
           </div>
 
-          {/* Right - Quote Section */}
           <div className="md:w-1/2 mt-8 md:mt-0 md:pl-12">
             <blockquote className="text-2xl font-serif text-gray-700">
               <span className="text-brown-600 text-5xl mr-2 font-serif">&ldquo;</span>
@@ -72,7 +71,6 @@ const About = () => {
           </div>
         </div>
 
-        {/* Featured Logos Section */}
         <div className="mt-12 text-center">
           <h2 className="text-lg font-bold mb-8 font-serif">AS FEATURED IN</h2>
           <div className="flex flex-wrap justify-center items-center space-x-4 space-y-4 md:space-y-0">
@@ -84,7 +82,6 @@ const About = () => {
           </div>
         </div>
 
-        {/* Follow Along Section */}
         <div className="mt-12">
           <div className="flex justify-between items-center mb-4">
             <h2 className="text-2xl font-bold">Follow along</h2>

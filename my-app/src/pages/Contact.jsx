@@ -10,7 +10,8 @@ const Contact = () => {
     <div>
       <Navbar />
       <div className="container mx-auto px-4 py-16 md:flex md:space-x-12">
-        {/* Left Section - Contact Details */}
+
+
         <div className="md:w-1/2 space-y-10">
           <h1 className="text-5xl font-serif  mb-6 text-gray-900">Contact</h1>
           <p className="text-lg text-gray-700 leading-relaxed font-serif">
@@ -105,7 +106,6 @@ const Contact = () => {
         
       </div>
 
-      {/* Section with Quote and Image */}
       <div className="container mx-auto px-4 py-16 md:flex items-center">
         <div className="md:w-1/2">
           <img

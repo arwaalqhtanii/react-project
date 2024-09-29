@@ -115,7 +115,6 @@ const Navbar = () => {
           />
         </div>
 
-        {/* Links for desktop view */}
         <div className="hidden md:flex space-x-8 text-lg font-medium">
           <Link to="/" className="block text-gray-900 hover:text-brown-600 transition">Home</Link>
           <Link to="/about" className="block text-gray-900 hover:text-brown-600 transition">About</Link>
